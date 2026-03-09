@@ -1,9 +1,9 @@
 {
-  "name": "AFK Bot",
+  "name": "Slob",
   "bot-account": {
-    "username": "Slobtest",
+    "username": "Slob",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "eiracraft.aternos.me",
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to Eiravynn!",
         "I like to play Minecraft!"
       ]
     },
@@ -76,9 +76,9 @@
     "pick-up-day": true,
     "place-night": true
   },
-  "discord": {
+  "Website": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
+    "webhookUrl": "eiracraft.com",
     "events": {
       "connect": true,
       "disconnect": true,
